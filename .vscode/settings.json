@@ -1,0 +1,18 @@
+{
+  "deno.enable": true,
+  "deno.cache": "./.deno_cache",
+  "deno.cacheOnSave": true,
+  "deno.config": "./deno.jsonc",
+  "deno.suggest.imports.autoDiscover": false,
+  "deno.suggest.imports.hosts": {
+    "https://deno.land": true,
+    "https://deno.land/std": true
+  },
+  "deno.lint": true,
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "denoland.vscode-deno",
+  "deno.codeLens.implementations": true,
+  "deno.codeLens.references": true,
+  "deno.codeLens.referencesAllFunctions": true,
+  "deno.codeLens.test": true
+}

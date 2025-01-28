@@ -1,0 +1,4 @@
+.deno_cache
+.deno_lsp
+node_modules
+.env
